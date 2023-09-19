@@ -1,2 +1,2 @@
 echo "Welcome to Git"
-echo "Welcome to Git Branches'
+echo "Welcome to Git Branches"
