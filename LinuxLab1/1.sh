@@ -1,1 +1,1 @@
-echo "Welcome to Git"
+ech "Welcome to Git"
